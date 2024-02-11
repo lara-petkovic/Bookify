@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5T46hTq5aoVjSGjTA9/F7TfzM8oxBOiTZlG3CIfwSTdlIOBL1gbCcLi2/BZwd13gVrPJ2Bgb6BEqADiPuupL9A==",
+  "dgSpecHash": "I0enAU4zHUgm4bvW3rF7BBWgWla1Ael7gJ8Y+9bGkUE6vTxHB83VWPe0HzEcfo/7h0Nfnu/POBb5XGIdLSRXzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Laptop\\Desktop\\01 - Domain Layer - start\\start\\Bookify\\Bookify.Domain\\Bookify.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Laptop\\Desktop\\MilanJovanovic\\Bookify\\Bookify.Domain\\Bookify.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
