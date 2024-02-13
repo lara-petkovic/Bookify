@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "s0bqQHUue1lT4dA5psPVUChHxMLYnHlTy9qQgskKdmDlMZCYiYxmwLVGkfpoSz7oXYHqVoTEazAa8UEJpIig9A==",
+  "dgSpecHash": "6Y4XK8EbbvHRAQv+0j2b24m7v5tegaUbUKrf504aKe8vXEkbw+78DpsS8kN4vEbPrunJkHxPcKKHJhckBvfmyg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Laptop\\Desktop\\MilanJovanovic\\Bookify\\Bookify.Domain\\Bookify.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Laptop\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+    "C:\\Users\\Laptop\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Laptop\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
