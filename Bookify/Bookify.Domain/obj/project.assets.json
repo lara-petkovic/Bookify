@@ -125,11 +125,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Laptop\\Desktop\\MilanJovanovic\\Bookify\\Bookify.Domain\\Bookify.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Laptop\\Desktop\\Bookify\\Bookify\\Bookify.Domain\\Bookify.Domain.csproj",
       "projectName": "Bookify.Domain",
-      "projectPath": "C:\\Users\\Laptop\\Desktop\\MilanJovanovic\\Bookify\\Bookify.Domain\\Bookify.Domain.csproj",
+      "projectPath": "C:\\Users\\Laptop\\Desktop\\Bookify\\Bookify\\Bookify.Domain\\Bookify.Domain.csproj",
       "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Laptop\\Desktop\\MilanJovanovic\\Bookify\\Bookify.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Laptop\\Desktop\\Bookify\\Bookify\\Bookify.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",

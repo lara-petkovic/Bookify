@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6Y4XK8EbbvHRAQv+0j2b24m7v5tegaUbUKrf504aKe8vXEkbw+78DpsS8kN4vEbPrunJkHxPcKKHJhckBvfmyg==",
+  "dgSpecHash": "bW0ZJ044aYmjz4Vghp95b/xYZDnhWwFWbLh2kAqiFnp9ctmsIMgtPgCgHJiIEcbSWCkPH0DwWPB6igESNhg2GQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Laptop\\Desktop\\MilanJovanovic\\Bookify\\Bookify.Domain\\Bookify.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Laptop\\Desktop\\Bookify\\Bookify\\Bookify.Domain\\Bookify.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Laptop\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\Laptop\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
